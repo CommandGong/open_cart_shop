@@ -1,0 +1,5 @@
+2020-05-05 17:28:14 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'admin123' in G:\XAMPP7\htdocs\aceway_cart\system\library\db\mysqli.php on line 7
+2020-05-05 17:28:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\XAMPP7\htdocs\aceway_cart\system\library\db\mysqli.php on line 10
+2020-05-05 17:28:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\XAMPP7\htdocs\aceway_cart\system\library\db\mysqli.php on line 10
+2020-05-05 17:28:14 - PHP Notice:  Undefined variable: mysql in G:\XAMPP7\htdocs\aceway_cart\install\controller\install\step_3.php on line 280
+2020-05-05 17:28:14 - PHP Notice:  Trying to get property 'connect_error' of non-object in G:\XAMPP7\htdocs\aceway_cart\install\controller\install\step_3.php on line 280
