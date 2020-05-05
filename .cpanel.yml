@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/admingong/public_html/aceway_cart/
+    - /bin/cp -r * $DEPLOYPATH 
