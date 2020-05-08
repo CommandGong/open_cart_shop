@@ -11,7 +11,7 @@ define('HTTPS_CATALOG', 'http://localhost/aceway_cart/');
 define('DIR_APPLICATION', 'G:/XAMPP7/htdocs/aceway_cart/admin/');
 define('DIR_SYSTEM', 'G:/XAMPP7/htdocs/aceway_cart/system/');
 define('DIR_IMAGE', 'G:/XAMPP7/htdocs/aceway_cart/image/');
-define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
+define('DIR_STORAGE', 'G:/XAMPP7/storage/');
 define('DIR_CATALOG', 'G:/XAMPP7/htdocs/aceway_cart/catalog/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
